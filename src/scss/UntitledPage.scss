@@ -1,0 +1,14 @@
+@use "utils" as *;
+@use "global" as *;
+
+.untitled-page {
+  &.subtitle {
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6980392156862745);
+  }
+  .title {
+    text-shadow: 0px 8px 16px rgba(0, 0, 0, 0.4980392156862745);
+  }
+  .title11 {
+    text-shadow: 0px 8px 16px rgba(0, 0, 0, 0.4980392156862745);
+  }
+}
